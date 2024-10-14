@@ -1,26 +1,8 @@
-<h1 align="center">Hi 👋, I'm imran752310</h1>
-<h3 align="center">A passionate Fullstack developer from PAKISTAN</h3>
 
-
-- 🔭 I’m currently working on **E-Commerce**
-
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on **FYP Management System**
-
-- 👨‍💻 All of my projects are available at [https://github.com/imran752310?tab=repositories](https://github.com/imran752310?tab=repositories)
 
 - 💬 Ask me about **'m Muhammad Imran As a Modern web Developer, offering Web Development And Designing. services Skills regarding, Bootstrap, Tailwind CSS, JavaScript, TypeScript React and Back-end Development in PHP and Nodejs Express. and Problem-solving and teamwork. My mission is to provide fast, excellent, and affordable service to you. I'll work on your project until you are 100% satisfied with the quality of work.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imran752310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran752310" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imran752310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran752310" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad imran" height="30" width="40" /></a>
-<a href="https://fb.com/m imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m imran" height="30" width="40" /></a>
-<a href="https://instagram.com/imran752310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran752310" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/apna codeing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apna codeing" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,7 +45,7 @@
         <a
           href="/Em-Aar/Em-Aar"
           class="no-underline Link--primary"
-        >Em-Aar</a><span
+        >imran752310</a><span
           class="color-fg-muted d-inline-block"
           style="padding:0px 2px;"
         >/</span>README<span
@@ -71,11 +53,10 @@
         >.md</span>
       </div>
 
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ede78c2d2b6dba7dbfd4c70c007b91b8a498e37793ea3b16a923ea26f9b580e6/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d456d2d4161722e456d2d416172266c6566745f636f6c6f723d7265642672696768745f636f6c6f723d677265656e266c6566745f746578743d56697369746f7273"><img align="right" src="https://camo.githubusercontent.com/ede78c2d2b6dba7dbfd4c70c007b91b8a498e37793ea3b16a923ea26f9b580e6/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d456d2d4161722e456d2d416172266c6566745f636f6c6f723d7265642672696768745f636f6c6f723d677265656e266c6566745f746578743d56697369746f7273" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Em-Aar.Em-Aar&amp;left_color=red&amp;right_color=green&amp;left_text=Visitors" style="max-width: 100%;"></a></p>
+ 
 <div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">
   <a href="https://git.io/typing-svg" rel="nofollow">
-<img src="https://camo.githubusercontent.com/b2bc393bb4564fe8932b2a1f3d49dba16dd5bc991f4e66aab7f8a4aa9e9be617/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4d6f6e74736572726174267765696768743d3530302673697a653d3234266475726174696f6e3d323030302670617573653d313030302663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d343335266c696e65733d48692b7468657265212b2546302539462539312538422b49276d2b4d2b526568616e2b756c2b486171" data-canonical-src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=500&amp;size=24&amp;duration=2000&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;lines=Hi+there!+%F0%9F%91%8B+I'm+M+Rehan+ul+Haq" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/b2bc393bb4564fe8932b2a1f3d49dba16dd5bc991f4e66aab7f8a4aa9e9be617/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4d6f6e74736572726174267765696768743d3530302673697a653d3234266475726174696f6e3d323030302670617573653d313030302663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d343335266c696e65733d48692b7468657265212b2546302539462539312538422b49276d2b4d2b526568616e2b756c2b486171" data-canonical-src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=500&amp;size=24&amp;duration=2000&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;lines=Hi+there!+%F0%9F%91%8B+I'm+M+Imran+Khan" style="max-width: 100%;">
   </a>
 </h1><a id="user-content-----" class="anchor" aria-label="Permalink: " href="#----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
@@ -89,6 +70,19 @@
 <div class="markdown-heading" dir="auto"><h4 class="heading-element" dir="auto"> Teaching and Mentoring:</h4><a id="user-content--teaching-and-mentoring" class="anchor" aria-label="Permalink:  Teaching and Mentoring:" href="#-teaching-and-mentoring"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div> Beyond coding, I am dedicated to nurturing the next generation of developers. I'm involved in teaching and mentoring young enthusiasts, helping them discover the joy of coding and the art of problem-solving.
 <br>
 <br>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imran752310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran752310" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imran752310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran752310" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/muhammad imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad imran" height="30" width="40" /></a>
+<a href="https://fb.com/m imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m imran" height="30" width="40" /></a>
+<a href="https://instagram.com/imran752310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran752310" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/apna codeing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apna codeing" height="30" width="40" /></a>
+</p>
+
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🤝 Let's Connect:</h2><a id="user-content--lets-connect" class="anchor" aria-label="Permalink: 🤝 Let's Connect:" href="#-lets-connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center" dir="auto"> 
   <a href="/Em-Aar/Em-Aar/blob/main/mmrhaq@gmail.com">
@@ -102,6 +96,11 @@
   </a>
 </div>
 <hr>
+
+
+
+
+
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💻 Technologies I Love:</h2><a id="user-content--technologies-i-love" class="anchor" aria-label="Permalink: 💻 Technologies I Love:" href="#-technologies-i-love"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><br>
 <br>
 <div align="center" dir="auto">
