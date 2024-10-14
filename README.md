@@ -17,9 +17,7 @@
 
  
 <div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">
-  <a href="https://git.io/typing-svg" rel="nofollow">
-<img src="https://camo.githubusercontent.com/b2bc393bb4564fe8932b2a1f3d49dba16dd5bc991f4e66aab7f8a4aa9e9be617/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4d6f6e74736572726174267765696768743d3530302673697a653d3234266475726174696f6e3d323030302670617573653d313030302663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d343335266c696e65733d48692b7468657265212b2546302539462539312538422b49276d2b4d2b526568616e2b756c2b486171" data-canonical-src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=500&amp;size=24&amp;duration=2000&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;lines=Hi+there!+%F0%9F%91%8B+I'm+M+Imran+Khan" style="max-width: 100%;">
-  </a>
+<h1>I M Muhammad Imran KHan</h1>
 </h1><a id="user-content-----" class="anchor" aria-label="Permalink: " href="#----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
   A passionate Full Stack Developer with expertise in Next.js, TypeScript, Python, FastAPI and Docker.
