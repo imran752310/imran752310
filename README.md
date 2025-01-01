@@ -90,12 +90,15 @@
 
 
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💻 Technologies I Love:</h2><a id="user-content--technologies-i-love" class="anchor" aria-label="Permalink: 💻 Technologies I Love:" href="#-technologies-i-love"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><br>
-<br>
-<div align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a753dbaf02f1dd003784fcd75a40a22b9077c897f4b9cad5f4d6d8af08f9cbdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c626f6f7473747261702c6d75692c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c7461696c77696e642c6769742c72"><img src="https://camo.githubusercontent.com/a753dbaf02f1dd003784fcd75a40a22b9077c897f4b9cad5f4d6d8af08f9cbdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c626f6f7473747261702c6d75692c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c7461696c77696e642c6769742c72" data-canonical-src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8706638649b422c35d3e13235050e0eac3b1e7346f880d2ef1c7e888575158b0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c707974686f6e2c6a6176617363726970742c747970657363726970742c657870726573732c66697265626173652c6d6f6e676f64622c6e6578746a732c6d7973716c2c646a616e676f"><img src="https://camo.githubusercontent.com/8706638649b422c35d3e13235050e0eac3b1e7346f880d2ef1c7e888575158b0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c707974686f6e2c6a6176617363726970742c747970657363726970742c657870726573732c66697265626173652c6d6f6e676f64622c6e6578746a732c6d7973716c2c646a616e676f" data-canonical-src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,nextjs,mysql,django" style="max-width: 100%;"></a><br>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💻 Technologies I Love:</h2><a id="user-content--technologies-i-love" class="anchor" aria-label="Permalink: 💻 Technologies I Love:" href="#-technologies-i-love">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+  <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+</svg>
+</a>
 </div>
+<br>
+<br>
+
 <br>
 <hr>
 </article>
